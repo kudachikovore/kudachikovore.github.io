@@ -28,11 +28,11 @@
 }
 
 :root {
-	--theme-color: #a60000;
-	--theme-color-two: #a60000;
+	--theme-color: #230085;
+	--theme-color-two: #230085;
 	--theme-color-three: #d40032;
-	--theme-color-four: #02c06d;
-	--theme-color-five: #a60000;
+	--theme-color-four: red;
+	--theme-color-five: #230085;
 	--dark-color: #302c51;
 	--dark-color-two: #302c51;
 	--rubik: 'Rubik', sans-serif;
@@ -2157,6 +2157,7 @@ img {
 	position: relative;
 	padding: 11px 0;
 	z-index: 999;
+
 }
 
 .top-bar .wrapper-box {
@@ -2446,7 +2447,7 @@ img {
 .main-header .header-upper {
 	position: relative;
 	z-index: 99;
-	background: #fff;
+	
 }
 
 .main-header .header-upper .wrapper-box {
@@ -12857,7 +12858,7 @@ img {
 	left: 0;
 	bottom: 0;
 	width: 60px;
-	background: #a60000;
+	background: #230085;
 	content: "";
 }
 
